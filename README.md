@@ -1,24 +1,36 @@
-# README
+Hello la correction, bienvenue dans ce petit repo, el famoso Ruby on Rails;
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Le principe de l'exercice est simple :
 
-Things you may want to cover:
+FreeDoc - Réserve ton docteur
+Allez, on va implémenter pour de vrai ce concurrent de Doctolib dont on te parle à longueur de ressource ! À toi d'être chirurgical 👩‍⚕️
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+Pour faire fonctionner tout ça rien de bien compliqué : 
+~~~~~~~~~~~~~~~~~~~~
+$ bundle install
 
-* Database creation
+$ rails db:migrate
 
-* Database initialization
+$ rails db:seed
 
-* How to run the test suite
+$ rails c
 
-* Services (job queues, cache servers, search engines, etc.)
+$ tp User.all
 
-* Deployment instructions
+ ect...
+~~~~~~~~~~~~~~~~~~~~
+------
 
-* ...
+par Quentin vandecandelaere @Quentin vandecandelaere 
+------
+
+&
+par Martin François @tinmar
+------
+
+&
+Xavier Refour @Xavier.Refour
+------
+![](https://66.media.tumblr.com/tumblr_m170a0Gqma1qe25ajo1_500.gif)
