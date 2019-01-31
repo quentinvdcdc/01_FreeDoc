@@ -1,4 +1,4 @@
-Hello la correction, bienvenue dans ce petit repo, el famoso Ruby on Rails;
+Hello la correction, bienvenue dans ce petit repo, el famoso Ruby on Rails 2nd édition;
 
 Le principe de l'exercice est simple :
 
